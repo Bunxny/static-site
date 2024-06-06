@@ -1,0 +1,34 @@
+p {color:green;
+    font-size:2rem;}
+body{
+    font-size:1rem;
+    color:#b876de
+}
+p {background-color:rgb(252, 241, 243);}
+#b {background-color:rgb(91, 91, 184);
+    color:rgb(126, 83, 37);}
+.para {background-color:rgb(155, 159, 211);
+    color:blue;}
+img {
+    width:100px;
+    border: 15px solid rgb(218, 102, 168);
+    border-style:dotted;
+    padding-bottom:10px;
+    padding-left:10px;
+    margin:1px 50px 80px;
+}
+
+.button1 {
+    background-color: #04AA6D; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+  
+  p:hover {
+    color: rgb(84, 41, 117);
+  }
